@@ -1,0 +1,197 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@300;400;500&family=Prata&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@300;400;500&family=Prata&family=Roboto+Condensed&display=swap');
+
+
+#logo{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+}
+
+#logo-img{
+    width: 30%;
+    padding-top: 20px;
+}
+
+#head{
+    background-image: url(../assets/banner.jpg);
+    height: 25em;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-position: center;
+}
+
+h1{
+    font-weight: 700;
+    color: #25a2c3;
+    font-size: 2.5em;
+}
+
+#prima-linea{
+    padding-top: 1.6em;
+}
+
+h1 + p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    padding: 1em 3em;
+}
+
+button{
+    height: 3em;
+    width: 10em;
+    color: white;
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
+
+#button{
+    padding-top: 1.5em;
+}
+
+h2{
+   color: #25a2c3;
+   line-height: 1.5;
+   font-size: 1.3em;
+   font-weight: 700;
+}
+
+.sezione{
+    text-align: center;
+    height: 10em;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2em;
+}
+
+.parag{
+    font-size: 1.3em;
+    padding: 1em 2em;
+    line-height: 1.5;
+    color: grey;
+}
+
+#computer{
+    border-radius: 100%;
+}
+
+#img-computer{
+    text-align: center;
+}
+
+#testimonianza{
+    background-color: #f04c2f;
+    height: 20em;
+    text-align: center;
+     font-family: 'Montserrat', sans-serif;
+     margin-top: 2em;
+    
+}
+
+h3{
+    font-weight: 700;
+    color: white;
+    font-size: 2em;
+    padding-top: 2em;
+}
+
+h3 + p{
+    color: white;
+    padding: 2em;
+}
+
+#mario{
+    font-size: 1.3em;
+}
+
+#ceo{
+    font-size: 0.9em;
+}
+
+#mario, #ceo{
+    line-height: 1.5em;
+    color: white;
+}
+
+.testimonianza{
+    padding-top: 1.5em;
+}
+
+.container-correlati{
+    text-align: center;
+    
+}
+
+.img-correlati{
+    width: 90%;
+    padding-top: 4em;
+}
+
+.text-correlati{
+    height: 8em;
+    border: solid 1px #dee1e3;
+    border-top: white;
+    margin: 0 1.4em;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    font-weight: 700;
+    font-size: 1.3em;
+    padding: 1em 0em
+}
+
+h4 + p{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: grey;
+    font-size: 1.3em;
+}
+
+#foot{
+    background-color:#25a2c3;
+    text-align: center;
+    margin-top: 6em;
+    height: 27em;
+    font-weight: 400;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 1.3em;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2.3em;
+    padding-top: 1.5em;
+}
+
+.par-foot{
+    color: #c8e7f0;
+}
+
+#numero{
+    padding-top: 2em;
+    font-size: 1.4em;
+    line-height: 1.5em;
+    text-decoration: underline;
+}
+
+#site{
+    font-size: 1.4em; 
+    line-height: 1.5em;
+}
+
+.fas{
+    padding-right: 0.2em;
+}
+
+hr{
+    margin: 3em 7em;
+}
+
+#footest{
+    font-size: 1.1em;
+}
